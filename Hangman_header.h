@@ -1,7 +1,7 @@
 /**
- * @file    Lab7_1.h
+ * @file    Hangman_header.h
  * @author  Dylan Brown
- * @brief   This file is teh ehader for 7.1
+ * @brief   This file is the header for hangman
  * @version 0.1
  * @date    2022-04-3
  *
