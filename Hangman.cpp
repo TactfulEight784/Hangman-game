@@ -1,7 +1,7 @@
 /**
- * @file    Lab7.1.cpp
+ * @file    Hangman.cpp
  * @author  Dylan Brown
- * @brief   This file is the main for 7.1 lab
+ * @brief   This file is the driver for hangman
  * @version 0.1
  * @date    2022-04-3
  *
