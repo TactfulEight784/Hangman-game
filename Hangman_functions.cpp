@@ -1,7 +1,7 @@
 /**
- * @file    Lab7_1Functions.cpp
+ * @file    Hangman_functions.cpp
  * @author  Dylan Brown
- * @brief   This file has the functions for 7.1
+ * @brief   This file has the functions for hangman driver
  * @version 0.1
  * @date    2022-04-3
  *
